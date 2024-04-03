@@ -6,4 +6,5 @@
 
 - second line is changed
 
--- this is our conflict line
+
+++ row after creating a new branch
