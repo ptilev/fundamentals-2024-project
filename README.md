@@ -5,3 +5,5 @@
 # this is a new line
 
 - second line is changed
+
+-- this is our conflict line
